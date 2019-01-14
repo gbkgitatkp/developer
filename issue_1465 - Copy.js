@@ -6,7 +6,8 @@ I have renewd the ip twice and in both cases invoice is generated.
 Please see the aatachments for the reference
 
 Solution:
-
+reopen 
+start time 2:00pm resolve time 2:20pm
 Hi Rahul 
 Issue1:- Visible 'Generate Invoice' Option on Renewals Page
 Solution:-'Configuration/System/Role Management'select Edit Permission and in this Select 'Invoice Generate' option under'Invoices' Menu.
