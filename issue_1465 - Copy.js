@@ -7,7 +7,7 @@ Please see the aatachments for the reference
 
 Solution:
 reopen 
-start time 2:00pm resolve time 2:20pm
+start time 2:00pm resolve time 2:20pm Resolved
 Hi Rahul 
 Issue1:- Visible 'Generate Invoice' Option on Renewals Page
 Solution:-'Configuration/System/Role Management'select Edit Permission and in this Select 'Invoice Generate' option under'Invoices' Menu.
