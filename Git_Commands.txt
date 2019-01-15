@@ -6,7 +6,7 @@ if file conflict error the use:
 git checkout filename
 
 
-
+//git clone
 git clone ganesh@apps.anantcomputing.in:/opt/anant/adwitiya
 
 
