@@ -28,3 +28,11 @@ git rebase master
 //----------stashing
 // ----------devbranch commit
 //----master commit 6.21pm
+
+If branch is diverged then merge it to origin
+use below command to see the missing commits
+git log HEAD..origin/master
+then use merge 
+git merge origin/master
+then push changes to branch
+git push
