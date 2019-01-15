@@ -36,3 +36,15 @@ then use merge
 git merge origin/master
 then push changes to branch
 git push
+
+***
+to merge branch commit to master
+
+git checkout master
+git merge branch name
+git push
+
+***
+
+When you are in master branch always do 
+git pull
