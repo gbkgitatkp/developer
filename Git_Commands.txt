@@ -1,0 +1,26 @@
+//to clone the directory from server
+git clone ganesh@apps.anantcomputing.in:/opt/anant/mylomart
+if any chan
+git pull
+if file conflict error the use:
+git checkout filename
+
+
+
+git clone ganesh@apps.anantcomputing.in:/opt/anant/adwitiya
+
+
+git clone origin master
+
+step1:- create git master directory
+git clone https://github.com/gbkgitatkp/developer.git
+
+
+git diff master...testing --name-status --diff-filter=A
+
+git checkout -b testing --track origin/master
+
+get changes from master to branch
+
+git merge origin/master
+git rebase master
