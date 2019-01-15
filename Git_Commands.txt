@@ -24,3 +24,5 @@ get changes from master to branch
 
 git merge origin/master
 git rebase master
+
+//----------stashing
